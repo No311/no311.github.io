@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-On this page, an overview of my professional and hobby projects.
+On this page: an overview of my professional and hobby projects.
 # Professional 
 ## AuDaLa
 <!-- ## [AuDaLa]({{ site.baseurl }}{% link projects/AuDaLa.md %}) -->
