@@ -10,7 +10,7 @@ On this page: an overview of my professional and hobby projects.
 
 *Current status: Active, secondary*
 
-During my PhD, I created the basis for a parallel programming language called AuDaLa (Autonomous Data Language), working together with my supervisors, [Thomas Neele](tneele.com) and [Jan Friso Groote](https://www.tue.nl/en/research/researchers/jan-friso-groote), as well as Gijs Leemrijse and the members of the AVVA project. 
+During my PhD, I created the basis for a parallel programming language called AuDaLa (Autonomous Data Language), working together with my supervisors, [Thomas Neele](https://tneele.com) and [Jan Friso Groote](https://www.tue.nl/en/research/researchers/jan-friso-groote), as well as Gijs Leemrijse and the members of the AVVA project. 
 The fruits of this labour can be found in my thesis, titled [A Parallel Programming Perspective - Design of AuDaLa and AuDaLogic]({{ site.url }}/download/A_Parallel_Programming_Perspective.pdf).
 
 The goal of AuDaLa is to facilitate understandable, usable and verifiable parallel programming.
