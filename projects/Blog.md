@@ -7,4 +7,9 @@ exclude: true
 ---
 # Tom's Blog
 
-![Posts](/content/placeholder.jpg){: style="display: block; margins: auto;"}
+{% for blogpost in site.categories.blog %}
+{% assign mypost = blogpost.slug %}
+
+- [{{ blogpost.date| date: "%Y-%m-%d" }} - {{ blogpost.title }}]({{ site.baseurl }}/blog/{{ blogpost.date| date: "%Y/%m/%d" }}/{{ blogpost.slug }}.html)
+
+{% endfor %}
