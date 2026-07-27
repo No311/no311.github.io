@@ -40,6 +40,6 @@ I am currently waiting for a contract for renting the room; I hope that will all
 
 There is also a high likelihood of me going to the new Spider-Man on Thursday; before that I will probably rewatch Spider-Man No Way Home, as I had a good conversation with Daniel recently that led me to consider giving that one another shot (I didn't like the amount of nostalgia in it when I first saw it).
 
-And now I shall get back on arranging a room.
+And now I shall get back to waiting, probably eating something, and watching a movie. The landlord of the room is now supposed to contact me.
 
 Tom out.
