@@ -36,7 +36,9 @@ I did get a bit of a cold from the air-conditioning, but I will get used to that
 
 This did not stop me meeting up with Erfan, a friend of Nazanin who I had contact with before coming here, and the both of us and Erfan's dog Bo having a pretty great walk from the shore through the NUS.
 
-I am currently waiting for a contract for renting the room; I hope that will all work out. There is also a high likelihood of me going to the new Spider-Man on Thursday; before that I will probably rewatch Spider-Man No Way Home, as I had a good conversation with Daniel recently that led me to consider giving that one another shot (I didn't like the amount of nostalgia in it when I first saw it).
+I am currently waiting for a contract for renting the room; I hope that will all work out. Jetlag hit me hard tonight; I shocked awake at 2 AM and couldn't properly sleep after, so I am taking it easy otherwise today. I thought I had avoided jetlag. Jetlag seems to have had other plans.
+
+There is also a high likelihood of me going to the new Spider-Man on Thursday; before that I will probably rewatch Spider-Man No Way Home, as I had a good conversation with Daniel recently that led me to consider giving that one another shot (I didn't like the amount of nostalgia in it when I first saw it).
 
 And now I shall get back on arranging a room.
 
