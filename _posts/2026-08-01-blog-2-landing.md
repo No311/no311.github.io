@@ -28,7 +28,7 @@ Like an unbureaucratic fool, I could not see the beautiful perfectly sensible lo
 
 So I went to the bank twice that day, standing in no less than 4 lines in total before being plucked out of the last line near closing time and being helped by some lovely bank staff, who explained to me that the idea was that I could access digibanking after I received my debit card.
 
-I can never tell whether it is just me in these situations, but I was again in my baffled tourist state at that point. Got a lovely tip to try out some mango-cheese smoothie at the high-tea though; forgot to ask the name of the guy who gave me the tip before I was plucked from that waiting line.
+I can never tell whether it is just me in these situations, but I was again in my baffled tourist state at that point. Got a lovely tip to try out some mango-cheese smoothie at a store called Heytea though; forgot to ask the name of the guy who gave me the tip before I was plucked from that waiting line.
 
 Luckily the bank teller was able to assist me in unlocking digibanking early; the next Friday was decisively after the deadline for paying the first month of rent for the room to such an extent that I was uncomfortable waiting until then. I still need to wait up to three working days to transfer the money required to do that to my Singapore bank though.
 
