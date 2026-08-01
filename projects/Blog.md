@@ -11,5 +11,4 @@ exclude: true
 {% assign mypost = blogpost.slug %}
 
 - [{{ blogpost.date| date: "%Y-%m-%d" }} - {{ blogpost.title }}]({{ site.baseurl }}/blog/{{ blogpost.date| date: "%Y/%m/%d" }}/{{ blogpost.slug }}.html)
-
 {% endfor %}
