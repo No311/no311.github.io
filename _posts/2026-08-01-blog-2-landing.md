@@ -75,7 +75,7 @@ Tom out.
 
 *Note: I have received some nice ideas for functionality on this site, but as I currently do not have wifi, me augmenting the site will have to wait until I do. Thanks for the ideas, though, and if you have another idea, please let me know.*
 
-*Bonus: I have some additional photos! Two were made before my plane flight (one featuring Joep), and one was made by Erfan yesterday. I also added a photo of me in fancy dress for my defense with Poekie.*
+*Bonus: I have some additional photos! Two were made before my plane flight (featuring my mom and dad, and one featuring Joep), and one was made by Erfan yesterday. I also added a photo of me in fancy dress for my defense with Poekie.*
 
 ![Before leaving 1]({{ site.baseurl }}/content/Blog2/voorvertrek1.jpg){: style="float: center; padding: 10px 10px 10px 10px; width: 300px;border-radius:50px;"}
 ![Before leaving 2]({{ site.baseurl }}/content/Blog2/voorvertrek2.jpg){: style="float: center; padding: 10px 10px 10px 10px; width: 300px;border-radius:50px;"}
