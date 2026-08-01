@@ -12,6 +12,8 @@ The good news: I have found a room!
 The room is nice and spacy, though the furniture is a bit basic and the Wifi does not work yet. The airco works, which is a massive relief, and the view is pretty great, as can be seen on the right.
 ![Room]({{ site.baseurl }}/content/Blog2/view.jpg){: style="float: right; padding: 10px 10px 10px 10px; width: 200px;border-radius:50px;"}
 
+Furthermore, the location is fantastic; work is a 30 minutes walk, and the busstop is less than 5 minutes walk. There is also a mall reachable in 10-15 minutes, and a bigger mall reachable in 40 minutes. Within a radius of 20 minutes, there are also multiple spots to eat.
+
 The bad news: I have not yet been able to pay for the room. It turns out that getting a functional bank account, for which I had to have a residential address (the room), requires about 2 weeks of working days, first to approve the application and then to issue a debit card. Luckily for me the landlord and agent (three hurrahs for the agent) seem to be fine with me being delayed in paying my first month of rent, otherwise this could have gotten quite nasty. (They highly preferred me using PayNow to pay them as opposed to transferring the payment from the Rabobank.)
 
 The absolute knockout blow from the mace of bureaucracy in which I found that out was pretty magnificent. There I was, sitting behind my work desk on Friday, when I suddenly receive three mails from the bank. Paraphrased (though the order is correct):
