@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arranging Life in Singapore"
-date:   2026-07-27 13:37:00 +0800
+date:   2026-08-01 17:57:00 +0800
 category: blog
 ---
 
