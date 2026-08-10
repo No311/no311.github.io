@@ -11,7 +11,7 @@ Somehow, that seems unlikely to happen, but I will be following Singapore's life
 
 Stupid jokes aside, I was pretty happy with that extra day of rest; I am still acclimatizing, and this gave me an extra day in which I could focus on living in Singapore and not also at the same time getting myself up to speed with work.
 
-Turns out it was needed, I spent most of the day reading in bed and playing and learning chess with and from Patrick. I am not particularly good at it, but I think I can see the shape of good chess play now, and perhaps I will get better soon.
+Turns out it was needed, I spent most Saturday reading in bed and playing and learning chess with and from Patrick. I am not particularly good at it, but I think I can see the shape of good chess play now, and perhaps I will get better soon.
 I am considering to get the Chess app for a year too; might be a fun skill to learn.
 
 So, on work: I have, by now, truly met four people of the group and spoken to another few members.
