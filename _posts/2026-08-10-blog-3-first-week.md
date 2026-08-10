@@ -74,7 +74,7 @@ Yesterday, me and a friendly co-worker, David, went to see the fireworks for Sin
 ![Waterline]({{ site.baseurl }}/content/Blog3/sight4.jpg){: style="float: center; padding: 10px 10px 10px 10px; width: 400px;border-radius:50px;"}
 
 Before me and David went to see the sights as shown above, I decided this was a good opportunity to figure out where to buy a Steam Deck. Luckily for me, there was a gamestore very close at hand, so I went there and asked where I could buy a Steam Deck.
-So I went to an employee, and he told me that very store sold steam decks, gesturing downwards:
+So I went to an employee, and he told me that that very store sold steam decks, gesturing downwards:
 
 ![Steam Deck]({{ site.baseurl }}/content/Blog3/steamdeck.jpg){: style="display:block; margin:auto; width:300px; height:auto; border-radius:50px; padding: 20px;"}
 
