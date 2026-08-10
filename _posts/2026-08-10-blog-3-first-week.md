@@ -89,7 +89,7 @@ Secondly, I acclimatize reasonably well to moving abroad. I mean sure, I have gi
 This also means that it is easy for me to fall into old patterns, which can be a boon or a detriment.
 I shall have to see.
 
-Well, that's it for today, I think. I think my next post will be next week. Let's see if the bureaucratic stuff is truly done then. I've also been working on prepping a D&D campaign, maybe I can talk some about that (without spoiling anything).
+Well, that's it for today, I think. I think my next post will be next week. Let's see if the bureaucratic stuff is truly done then. I've also been working on prepping a D&D campaign, maybe I can talk some about that (without spoiling anything). Furthermore, my laptop screen has been glitching a bit; future side-quest? We shall know next week.
 
 Tom out.
 
