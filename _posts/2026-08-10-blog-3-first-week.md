@@ -91,6 +91,8 @@ I shall have to see.
 
 Well, that's it for today, I think. I think my next post will be next week. Let's see if the bureaucratic stuff is truly done then. I've also been working on prepping a D&D campaign, maybe I can talk some about that (without spoiling anything). Furthermore, my laptop screen has been glitching a bit; future side-quest? We shall know next week.
 
+(*Update: Nevermind, immediately found a fix online. Let's see if it sticks.*)
+
 Tom out.
 
 *This weeks media recommendation: Doctor Who, [Dalek Universe](https://www.bigfinish.com/releases/v/doctor-who-dalek-universe-1-2350), a fast-paced 9-episode audio drama saga of the 10th Doctor (around the series 4 specials) traveling to before the Time War, with a focus on the Dalek extended universe as envisioned in Classic Who by for example Terry Nation. Excellent action and character work. I have relistened the first seven episodes, and I have once again been enjoying it quite a lot. Also the sixth episode has some Tolkien parallels, so once again Tolkien did it first, like he invented horses and dwarves. I think I'll continue with reading the Hobbit soon.*
