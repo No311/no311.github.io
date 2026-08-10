@@ -96,7 +96,9 @@ Well, that's it for today, I think. I think my next post will be next week. Let'
 Tom out.
 
 *This weeks media recommendation: Doctor Who, [Dalek Universe](https://www.bigfinish.com/releases/v/doctor-who-dalek-universe-1-2350), a fast-paced 9-episode audio drama saga of the 10th Doctor (around the series 4 specials) traveling to before the Time War, with a focus on the Dalek extended universe as envisioned in Classic Who by for example Terry Nation. Excellent action and character work. I have relistened the first seven episodes, and I have once again been enjoying it quite a lot. Also the sixth episode has some Tolkien parallels, so once again Tolkien did it first, like he invented horses and dwarves. I think I'll continue with reading the Hobbit soon.*
+
 ![Dalek Universe 1]({{ site.baseurl }}/content/Blog3/du1.jpg){: style="float: center; padding: 10px 10px 10px 10px; width: 220px;border-radius:50px;"}
 ![Dalek Universe 2]({{ site.baseurl }}/content/Blog3/du2.jpg){: style="float: center; padding: 10px 10px 10px 10px; width: 220px;border-radius:50px;"}
 ![Dalek Universe 3]({{ site.baseurl }}/content/Blog3/du3.jpg){: style="float: center; padding: 10px 10px 10px 10px; width: 220px;border-radius:50px;"}
+
 *Note that this series has some prerequisites. For starters, it may be beneficial to have seen Doctor Who.*
