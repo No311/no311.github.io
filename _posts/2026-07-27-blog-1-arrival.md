@@ -7,9 +7,9 @@ category: blog
 
 I am in Singapore and I am alive! I was looking for a nice picture to illustrate this victory, preferably one with a derpy cat with two paws in the air, but all pictures I could find looked somewhat fake, so I am going to instead post this delightful picture I got from Mark recently:
 
-![Happy Bunny]({{ site.baseurl }}/content/Kerrets.jpg){: style="display:block; margin: auto; width:400px; height:auto; border-radius:100px; padding: 20px;"}
+![Happy Bunny]({{ site.baseurl }}/content/Blog1/Kerrets.jpg){: style="display:block; margin: auto; width:400px; height:auto; border-radius:100px; padding: 20px;"}
 
-I can certainly empathize with the bunny's victory. 
+I can certainly empathize with the bunny's victory.
 
 Life in the Singapore housing market goes fast. While still stumbling around like a baffled tourist (a state pretty familiar to me when I don't have enough sleep), I got a call from an agent I had been communicating with for a room, which happened to be available. I went with the flow, and saw the room, after which the agent was so kind as to join me on the bus towards a phone shop (I hadn't bought a simcard yet), giving me a good description of the neighbourhood and helping me find some important shops and giving me some handy tips on malls and the MRT.
 
@@ -17,13 +17,14 @@ I think everything would have gone far less smoothly if she hadn't done that, so
 
 I also got the valuable tip to perhaps visit Malacca in Malaysia at some point; it turns out to also have been a Dutch colony.
 
-With a phone number arranged and a room in the cross-hairs, I then had to get a bank account. Sadly by then (after some sleeping) it was Sunday, and on Sunday, the banks are closed. The Singapore housing market goes fast, however, and this delay was not great for the room: a challenger appeared around the afternoon, and the agent worked tooth and nail to stop the room from being rented out to that challenger. 
+With a phone number arranged and a room in the cross-hairs, I then had to get a bank account. Sadly by then (after some sleeping) it was Sunday, and on Sunday, the banks are closed. The Singapore housing market goes fast, however, and this delay was not great for the room: a challenger appeared around the afternoon, and the agent worked tooth and nail to stop the room from being rented out to that challenger.
 
-My hope was that with a bank account, I could pay the good-faith deposit conventional in the Singapore housing market more easily than using the worldwide transfers from the Rabobank, which I had never used before. 
+My hope was that with a bank account, I could pay the good-faith deposit conventional in the Singapore housing market more easily than using the worldwide transfers from the Rabobank, which I had never used before.
 (The good-faith deposit signifies the intent of the would-be-renter to rent the room, and is transformed into the security deposit after the renting contract is signed.)
 Sadly, it turns out that like so many things in Singapore, a residential address is needed for a bank account. So that was a wasted day; apologies to the agent.
 
 Therefore, if you ever go to Singapore with an In-Principle-Approval letter for a job as a Research Fellow at the NUS:
+
 1. Get a prepaid simcard. This cannot be an e-Sim; I checked.
 2. Get a proof of ownership for your prepaid simcard.
 3. Get a residential apartment/room/house/registered cardboard box/etc.

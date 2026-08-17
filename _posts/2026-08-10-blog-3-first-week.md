@@ -24,7 +24,7 @@ I have an ambition to see how many of the group I can get to join me for lunch, 
 This will, of course, not stop me for now.
 
 This week, I spent familiarizing myself with the details of C using the book Modern C (thanks Ferry!) and the basics of Frama-C, using a book and the website.
-![bread]({{ site.baseurl }}/content/Blog3/modernc.jpg){: style="float: right; padding: 10px 10px 10px 10px; width: 300px;border-radius:50px;"}
+![Modern-C]({{ site.baseurl }}/content/Blog3/modernc.jpg){: style="float: right; padding: 10px 10px 10px 10px; width: 300px;border-radius:50px;"}
 C so far is frustrating to me, due to its continued inclusion of historical design choices due to the fact that C is an older language (like the difference between strings and char arrays).
 The book also has some conventions about programming in C for which the rationale is basically "Just accept this, historically it was done like this."
 As someone who has, since his PhD, been focusing on recultivating his curiosity and considers that to be an absolutely bogus reason for the existence of conventions, this does not endear the language to me.

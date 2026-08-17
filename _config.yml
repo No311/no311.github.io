@@ -32,6 +32,10 @@ linkedin_username: tomfranken311
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-figure
+
+jekyll-figure:
+  paragraphs: false
 
 header_pages:
   - index.md
