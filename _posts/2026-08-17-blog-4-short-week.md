@@ -36,7 +36,8 @@ After a bit of a justified splurge in the IKEA and a decidedly uncomfortable bus
 {% endfigure %}{: style="text-align:center; display:inline-block; padding: 10px 10px 10px 10px; min-width: 250px; width: 45%"}
 {% endfigure %}{: style="display: block; margin: auto; text-align:center;"}
 
-Other than that, this week was somewhat tame comparing to the past week. My Singtel e-Sim got activated, which is nice. Like a baffled tourist asshole, I then returned to the store and bothered the overworked Singtel staff with two issues which turned out non-issues:
+Other than that, this week was somewhat tame comparing to the past week. My Employment Pass arrived on Friday.
+Furthermore, My Singtel e-Sim got activated. Like a baffled tourist asshole, I then returned to the store and bothered the overworked Singtel staff with two issues which turned out non-issues:
 
 1. My Settings showed 2GB of data only, but that turned out to be the *warning* and just meant the amount of GBs I had to spend before my phone would warn me of data spending had reset.
 2. My phone is simply to geriatric for Singaporean 5G.
@@ -46,7 +47,9 @@ Other than that, this week was somewhat tame comparing to the past week. My Sing
 {% endfigure %}{: style="text-align:center; float: right;  padding-left: 10px; padding-right: 10px; max-width: 200px; width: 50%;"}
 As my phone is only three years old, the second one baffles me and I decided to just deal with 4G instead. I did look into maybe getting a phone with my subscription (pending...), but in the end that requires a two year subscription, so to hell with it. Imma call this obsoleteness policy what it is: a waste of perfectly good, if older, smartphones.
 
-I'm pretty embarrassed about the first one, though; I could have easily figured this out if I had given it some more critical thought.
+I'm pretty embarrassed about the first one, though; I could have easily figured this out if I had given it some more critical thought. 
+It does mean however that all the bureaucratic stuff is done, as far as I know.
+At least, on the Singapore side...
 
 On the hobby side, I have spent most of my week working on my DnD setting and a campaign module I am working on. For those in the know, it's based on an earlier campaign I ran, the Fenusia campaign. I am still quite fond of that campaign, but it was flawed, and it eventually ended unfinished.
 
