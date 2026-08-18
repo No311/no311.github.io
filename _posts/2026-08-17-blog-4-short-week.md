@@ -16,7 +16,7 @@ This week, I forgot to make copious photos. Almost all of the pictures and all o
 {% endfigure %}{: style="text-align:center; float: right; padding-left: 10px; padding-right: 10px;max-width: 200px; width: 50%; margin-bottom: 0px"}
 Breaking News: On wednesday, I had had enough of my plank of a mattress and I decided to go do something about it. I had plans to get dinner with Martin, a colleague from work. I told Martin of this plan, and he basically told me the equivalent of "Say no more, you need to go to IKEA."
 
-And so we did. We first feasted scrumptiously at the Hawkers at the Alexandra Village Food Centre, where I established that indeed: the Thai kitchen is so far one of my favourite kitchens in Singapore, and Thai green curry is delicious. 
+And so we did. We first feasted scrumptiously at the Hawkers at the Alexandra Village Food Centre, where I established that indeed: the Thai kitchen is so far one of my favourite kitchens in Singapore, and Thai green curry is delicious.
 I need to get a recipe. Sadly, I am not allowed to cook in my apartment.
 
 {% figure caption:"*IKEA is surprisingly a good place for European-style food.*"%}
