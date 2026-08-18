@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ttpfranken.nl" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  No311
 linkedin_username: tomfranken311
-rss: true
+rss: This Site's RSS Feed
 
 # Build settings
 theme: minima
