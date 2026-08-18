@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Short Week"
+title:  "A Calm(ish) Week"
 date:   2026-08-17 23:50 +0800
 category: blog
 ---
