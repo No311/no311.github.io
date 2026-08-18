@@ -47,7 +47,11 @@ Furthermore, My Singtel e-Sim got activated. Like a baffled tourist asshole, I t
 {% endfigure %}{: style="text-align:center; float: right;  padding-left: 10px; padding-right: 10px; max-width: 200px; width: 50%;"}
 As my phone is only three years old, the second one baffles me and I decided to just deal with 4G instead. I did look into maybe getting a phone with my subscription (pending...), but in the end that requires a two year subscription, so to hell with it. Imma call this obsoleteness policy what it is: a waste of perfectly good, if older, smartphones.
 
-I'm pretty embarrassed about the first one, though; I could have easily figured this out if I had given it some more critical thought. 
+(*Small update: It has since been pointed out to me by Christiaan that another possible reason my phone does not support Singaporean 5G is because Singapore 5G may function differently from European 5G. This is a very good point, so my annoyance at not having Singapore 5G has significantly reduced. I am still not buying a new phone just to get 5G, however. In fact, it has become less likely that I will buy a phone here within the next year.*
+
+*This leads to **Singapore Lesson 3**: Investigate phone frequency bands before you buy a Singapore sim card. Generally a good travel tip.*)
+
+I'm pretty embarrassed about going a bit Karen on this, though; I could have easily figured out the first point out if I had given it some more critical thought. 
 It does mean however that all the bureaucratic stuff is done, as far as I know.
 At least, on the Singapore side...
 
@@ -91,6 +95,8 @@ This also means, however, that I have not yet managed to fulfill my intention of
 Tom out.
 
 *Practical Note: I have not yet been able to look into a mail button, but I have been recommended [Twine](https://play.google.com/store/apps/details?id=dev.sasikanth.rss.reader) and/or [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) as apps to be able to read RSS feeds, including the [RSS feed of this site]({{ 'feed.xml' | relative_url }}). I will probably eventually look into this, but I make no hard guarantees.*
+
+*Small update: I have also been recommended [Capy Reader](https://play.google.com/store/apps/details?id=com.capyreader.app) as a good app, which has a fantastic logo. Thanks Jore!*
 
 *This week I have mostly been prepping D&D, so I haven't consumed much media at all. Instead, I'll recommend the EP Empire of the Clouds, which is quite nice and calm. I see that one can embed Spotify on sites; let's see if that works.*
 
