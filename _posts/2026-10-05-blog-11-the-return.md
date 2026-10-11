@@ -125,7 +125,7 @@ It is funny to realize, now that my overthinking is proportional to the events o
 I had been putting too much focus on results to measure effectiveness, while I am not someone that can force results out of myself by putting myself under pressure beyond a certain limit.
 This week, however, the effort I had put into broadening my horizons to fit the current main project seems to be starting to pay off, showing me that not every effect needs to be immediate once again.
 
-Monday was not too special, though I had a nice conversation with my dad, who I had wanted to talk to during the weekend a bit and which was useful for me to clear some of the cloud debris. I also had a nice conversation with Nazanin over whatsapp which was quite relaxing.
+Monday was not too special, though I had a nice conversation with my dad, who I had wanted to talk to during the weekend a bit and which was useful for me to clear some of the cloud debris. I also had a nice and fun conversation with Nazanin over whatsapp.
 
 Tuesday, however, I had a meeting with Martin on the current project which allowed us to realign a bit better, and from this I was able to make some headway in the project.
 That evening, I enjoyed some audio plays with Pim.
