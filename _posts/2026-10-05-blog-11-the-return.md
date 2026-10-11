@@ -175,7 +175,7 @@ An AuDaLogic triple with set *A* is then only valid for a state with AuDaLogic e
 This would allow us to abstract away from exact values for *i* in the Gen Parallel proof rule and fix the rule.
 
 Doing something like this is not a new idea, as similar things have been done in logics in the past.
-In the end, I decided to not implement it, as it requires a substantial rewrite of chapters 7, 8 and 9 of my thesis, which I do not think is something to prioritize right now. I may do so later, and depending on what happens with AuDaLa, however, I will include this in any second version of the logic. 
+In the end, I decided to not implement it, as it requires a substantial rewrite of chapters 7, 8 and 9 of my thesis, which I do not think is something to prioritize right now. I may do so later, and depending on what happens with AuDaLa, I will include this in any second version of the logic. 
 
 Having been somewhat productive on Friday, yesterday, I swam a bit and I played V Rising with Niels. Today, I finished off this blog and a series I was watching; I intend to go eat after this, and then put some work into either a work project or my D&D project. Though I am not fully in the clear yet and still clearing out the last negative clouds, I can feel the drive to do things once again reaching useful levels.
 
