@@ -167,12 +167,15 @@ Anyways, pictures:
 {% endfigure %}{: style="display: block; margin: auto; padding bottom: 20px; text-align:center;"}
 
 In the evening, I met with Ferry and Bob for AuDaLa; Ferry is doing good work there, and we planned a day to meet when I am back in the Netherlands.
-I also considered how to solve my one mistake in the thesis. I came to the conclusion that to solve it, I would need to add a set *A* of AuDaLogic variables to AuDaLogic triples. These variables are then used to define an equivalence class relative to the AuDaLogic variable environment:
+I also considered how to solve my one mistake in the thesis. 
+
+I came to the conclusion that to solve it, I would need to add a set *A* of AuDaLogic variables to AuDaLogic triples. These variables are then used to define an equivalence class relative to the AuDaLogic variable environment:
 for every environment *s*, any environment in the equivalence class over *s* and *A* can differ from *s* only in the values of the variables *A*.
 An AuDaLogic triple with set *A* is then only valid for a state with AuDaLogic environment *s* if it is valid for any state that replaces *s* with an AuDaLogic environment from the equivalence class over *s* and *A*.
 This would allow us to abstract away from exact values for *i* in the Gen Parallel proof rule and fix the rule.
 
-Doing something like this is nothing new, but I did decide to not implement it, as it requires a substantial rewrite of chapters 7, 8 and 9 of my thesis, which I do not think is something to prioritize right now. I may do so later, and depending on what happens with AuDaLa, however, I will include this in any second version of the logic. For now, just assume the rule does what it is intended to do; the proof principle behind it works.
+Doing something like this is not a new idea, as similar things have been done in logics in the past. 
+In the end, I did decide to not implement it, as it requires a substantial rewrite of chapters 7, 8 and 9 of my thesis, which I do not think is something to prioritize right now. I may do so later, and depending on what happens with AuDaLa, however, I will include this in any second version of the logic. For now, just assume the rule does what it is intended to do; the proof principle behind it works.
 
 Having been somewhat productive on Friday, yesterday, I swam a bit and I played V Rising with Niels. Today, I finished off this blog and a series I was watching; I intend to go eat after this, and then put some work into either a work project or my D&D project. Though I am not fully in the clear yet and still clearing out the last negative clouds, I can feel the drive to do things once again reaching useful levels.
 
