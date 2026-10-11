@@ -180,8 +180,8 @@ Hopefully, I can use that for something nice. But I should not forget; no undue 
 
 Tom Out.
 
-*I have been reading and watching and playing a few things these past few weeks. Among the noteworthy things I've seen are the Infinite and the Divine, which is quite fun but which I have not finished yet, The Good Place, which is fun but a bit taxing to watch, White Chicks, which was surprisingly fun and V Rising, which is an excellent and atmospheric game. However, I think the thematical winner of the weeks with regards to media is most likely **Re;Zero**. I'm not going to spoil exactly what happens in it, but as someone who generally thinks isekai anime (reincarnated in a fantasy world-type anime) are not particularly good, this is probably the best one I know. The anime has hit pretty close at times, too, as it did the last week of September.*
+*I have been reading and watching and playing a few things these past few weeks. Among the noteworthy things I've seen are the Infinite and the Divine, which is quite fun but which I have not finished yet, The Good Place, which is fun but a bit taxing to watch, White Chicks, which was surprisingly fun, and V Rising, which is an excellent and atmospheric game. However, I think the thematical winner of the weeks with regards to media is most likely **Re;Zero**. I'm not going to spoil exactly what happens in it, but as someone who generally thinks isekai anime (reincarnated in a fantasy world-type anime) are not particularly good, this is probably the best one I know. The anime has hit pretty close at times, too, as it did the last week of September.*
 
 {% figure %}
-![The Return View]({{ site.baseurl }}/content/Blog11/Re;zero.png){: style="border-radius:25px;"}
+![Re Zero]({{ site.baseurl }}/content/Blog11/Re;zero.png){: style="border-radius:25px;"}
 {% endfigure %}{: style="display: block; margin: auto; text-align:center; padding: 10px 10px 10px 10px; max-width: 300px; width: 50%"}
