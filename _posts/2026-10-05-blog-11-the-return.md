@@ -132,7 +132,7 @@ That evening, I enjoyed some audio plays with Pim.
 
 Wednesday and Thursday were spent on concretizing an idea I had on wednesday, which will be discussed in the next meeting. On wednesday I furthermore had a good curry, and on Thursday I took a leaf from my stay in Bangkok and had a Banh Mi.
 
-Friday was a mental health day, and I took some time to visit the Bukit Timah nature reserve with David. It was a sweaty walk, but a good one; I saw my first ever group of wild monkeys, and we also saw a turtle in the lake we visited. Sadly the haze was quite present; it seems to be particularly bad this year. Just one more thing to be disappointed in humanity about then; the haze seems to be caused by intentional forest fires for agricultural purposes, and a period of at least a month of shit air quality per year for others seems to be considered a perfectly acceptable consequence for those doing the burnings. A nice pattern which can be found everywhere these days.
+Friday was a mental health day, and I took some time to visit the Bukit Timah nature reserve with David. It was a sweaty walk, but a good one; I saw my first ever group of wild monkeys, and we also saw a turtle in the lake we visited. Sadly the haze was quite present; it seems to be particularly bad this year. Just one more thing to be disappointed in humanity about then; the haze seems to be caused by intentional forest fires for agricultural purposes, and a period of at least a month of shit air quality per year for others seems to be considered a perfectly acceptable consequence for those doing the burnings. A somewhat disappointing pattern which can be found everywhere these days.
 
 Anyways, pictures:
 
